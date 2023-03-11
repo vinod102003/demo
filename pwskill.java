@@ -1,3 +1,4 @@
+package patternprograming;
 public class pwskill  {
     public static void main(String[] args) {
         int n =15;

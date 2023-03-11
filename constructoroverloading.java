@@ -11,7 +11,6 @@ class  student1{
     }
     student1(int age,String name)
     {
-        //this();
         this.name=name;
         this.age=age;
     }
@@ -34,7 +33,7 @@ class  student1{
         {
             student1 b = new student1();
             b.f2();
-           student1 b1 = new student1(18,"vinod");
+            student1 b1 = new student1(2,"vinod");
             b1.f2();
             student1 b2 = new student1("vinod");
             b2.f2();
